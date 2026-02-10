@@ -15,5 +15,5 @@ def agent_node(state: AgentState) -> AgentState:
 
     return {
         **state,
-        "answer": response.content
+        "answer": response
     }

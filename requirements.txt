@@ -1,4 +1,4 @@
-langchain-openai
+langchain-ollama
 dotenv
 langgraph
 langchain
